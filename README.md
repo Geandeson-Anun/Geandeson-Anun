@@ -1,20 +1,19 @@
 # 👋 Olá! Eu sou Geandeson da Anunciação Santos
 
 Bem-vindo(a) ao meu perfil no GitHub!  
-Sou programador em constante evolução, apaixonado por tecnologia e por transformar ideias em código. Aqui você encontrará projetos que refletem minha jornada de aprendizado e prática no desenvolvimento web.
+Sou programador em constante evolução, apaixonado por tecnologia e por transformar ideias em código. Aqui você encontrará projetos que refletem minha jornada de trabalho na programação e prática no desenvolvimento frontend e backend.
 
 ## 🚀 Sobre mim
 
-🎓 Estudante no <a href="https://rodolfomori.com.br/" target="_blank">DevClub</a>  
-💻 Programador focado em HTML e CSS  
+🎓 Membro do <a href="https://rodolfomori.com.br/" target="_blank">DevClub</a>  
+💻 Programador focado em desenvolvimento Full Stack 
 🌱 Sempre buscando aprender novas tecnologias e boas práticas  
-🎯 Interesses: desenvolvimento web, design responsivo e soluções criativas  
+🎯 Interesses: desenvolvimento web, banco de dados, desenvolvimento de agentes de IA e soluções criativas  
 📍 Brasil
 
 ## 🛠️ Tecnologias
 
-- 💻 Linguagens: `HTML`, `CSS`
-- 🛠️ Em aprendizado contínuo: `JavaScript`, `Git`, `Responsividade`
+- 💻 Linguagens: `HTML`, `CSS`,`JavaScript`, `React`, `Next.js`, `TypeScript`, `Tailwind`,  
 
 ## 🌐 Conecte-se comigo
 
